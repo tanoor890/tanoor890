@@ -36,4 +36,3 @@ I work with Agentic AI, LLMs, and ML to turn ideas into AI products that ship.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazla-saim-tanoor-2560ba382/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com)
-[![Research Paper](https://img.shields.io/badge/Q2%20Published-Paper-green?style=flat)](https://doi.org/10.4108/airo.9813)

@@ -28,7 +28,7 @@ I work with Agentic AI, LLMs, and ML to turn ideas into AI products that ship.
 | 🔬 [Explainable AI for Customer Churn](https://doi.org/10.4108/airo.9813) | Q2 Published Research using XGBoost, SHAP, and LIME |
 | 🍽️ [AI Meal Planner](https://github.com/tanoor890/AI_Meal_Planner_SpringBoot) | AI-powered meal planning system built with Spring Boot |
 | 🔗 [Leadsure](https://github.com/tanoor890/leadsure) | TypeScript AI product |
-| 🖥️ [Automated Software Installer](https://github.com/tanoor890/automated-software-installer) | OS-level automation server in C with GUI |
+| 🤖 [Q Bot](https://github.com/tanoor890/q_bot) | GPT-4 powered conversational bot with real-time WebSocket streaming and image generation, built with FastAPI |
 
 ---
 
